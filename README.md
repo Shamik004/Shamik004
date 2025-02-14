@@ -1,5 +1,8 @@
-# 💫 About Me:
-👋  Hello, World!<br>I’m passionate about AR, AI, and web technologies—always looking for ways to push the boundaries of innovation.<br><br>🔬 What I’m Working On<br>Augmented Reality – Developing a gesture-based handwriting system using WebAR & hand-tracking.<br>Machine Learning – Exploring AI-driven solutions for real-world challenges.<br>Web Development – Building scalable projects with Django and interactive front-end experiences.<br><br>🚀 Always Exploring<br>New ways to enhance AR and AI integration<br>Improving my data science and ML skills<br>Contributing to open-source projects<br><br>💡 Let’s Connect!<br>If you're into AR, AI, or web-based innovations, I'd love to exchange ideas and collaborate.<br><br>🎖 Fun Fact<br>I won Best Paper at IEEE DABCON for my genome sequence research and 1st place in the Made in JIS CELEB startup competition—always excited to take on new challenges!
+<h2 align="left">🛠️ About Me</h2>
+
+###
+
+<p align="left">I’m an aspiring developer skilled in C, C++, Python, and Java, with a keen interest in Artificial Intelligence, Machine Learning, and Django. I’m currently diving deeper into AI/ML and Django, exploring how these technologies can be leveraged to build innovative and scalable solutions.<br><br>Beyond coding, I have a passion for research and problem-solving, having won the Best Paper Award at IEEE DABCON for my genome sequence comparison research. I also secured 1st place in the Made in JIS CELEB startup competition with my project, BharatKraft.<br><br>🚀 What I’m Working On<br>Enhancing my AI/ML skills through hands-on projects<br>Building scalable web applications using Django<br>Exploring the intersection of AR and AI<br><br>🔍 Let’s Connect<br>I’m always open to discussions, collaborations, and learning opportunities in AI, ML, AR, and web technologies. Let’s connect and create something impactful!</p>
 
 
 # 💻 Tech Stack:
@@ -10,9 +13,6 @@
 
 
 # 📊 GitHub Stats:
-![]
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shamik004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shamik004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
